@@ -72,12 +72,19 @@ Author: Wasmud von Homburg; Text: Tractatus contra hereticos Beckardos, Lulhardo
 
 Data preprocessing:
 Normalization rules to solve ortographical variation:
+
 u-> v
+
 j -> i
+
 y -> i
+
 ae -> e
+
 oe -> e
+
 char->car (to solve variation charitas vs. caritas)
+
 wa -> va (to solve variation ewangelium / evangelium and waldenses / valdenses)
 
 These solve the majority of orthographical variation caused by editorial and scribal conventions and the differences of medieval and classical Latin without masking potentially significant stylistic features. In addition to orthographical normalisation, in the pre-processing phase we cleaned the texts from editorial additions such as page numbers and chapter titles (unless part of the original). Punctuation, numerals and single characters were removed. From early medieval texts we cleaned the references to bible books and verses (which were added by later editors), but in late medieval texts, most notably Zwicker’s own treatise, these are part of the original and were thus preserved. The pre-processing was done automatically, but confirmed with sanity checks. 
