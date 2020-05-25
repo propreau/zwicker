@@ -3,8 +3,11 @@
 The dataset contains training and test data used to verify the authorship of the anti-heretical treatise Refutatio errorum. 
 
 Dataset authors:
+
 Reima Välimäki: data selection, analysis and description
+
 Aleksi Vesanto: data pre-processing and analysis
+
 Anni Hella: data pre-processing
 
 
@@ -13,7 +16,8 @@ Reima Välimäki, Aleksi Vesanto, Anni Hella, Adam Poznański, Filip Ginter: ”
 qualitative analysis and features on vectors. An attempt for a synthesis of conventional and
 computational methods in the attribution of late medieval anti-heretical treatises”. Petri Paju, Mila Oiva & Mats Fridlund (eds.) Digital, Computational and Distant Readings of History: Emergent approaches within the new digital history. Helsinki: Helsinki University Press 2020 (forthcoming)
 
-Description of the data.
+Description of the data:
+
 The dataset has two gzip files containing the Latin text data used to train the SVM classifier. In addition, there is a wordlist of 1000 most common latin words (gzip and json files) used in text distortion (masking).
 
 The data is shared in masked form only to protect copyrights of recent editions used in the corpus
