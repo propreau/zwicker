@@ -1,6 +1,6 @@
 # Zwicker
 
-The dataset contains training and test data used to verify the authorship of the anti-heretical treatise Refutatio errorum. 
+The dataset contains training and test data used to verify the authorship of the anti-heretical treatise Refutatio errorum. The data has been compiled and published in the Academy of Finland consortium PROPREAU, funding decision 293024.
 
 Dataset authors:
 
