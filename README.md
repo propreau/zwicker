@@ -21,6 +21,7 @@ The data is shared in masked form only to protect copyrights of recent editions 
 The texts included in the data are:
 
 TEST DATA: (test_data_september_mask.gz)
+
 TEST1: Refutatio errorum, Redaction 4a
 Source: Augsburg, Staats- und Stadtbibliothek, MS 338, fols. 159r–170r.
 
@@ -31,11 +32,13 @@ TEST3: Refutatio errorum, Redaction 1
 Source: Vienna, Österreichische Nationalbibliothek, MS 1588, fols. 191r–211v.
 
 TRAINING DATA (train_data_september_mask.gz)
+
 Suspected author: Petrus Zwicker: 
 Text: Cum dormirent homines (CDH)
 Source: Gretser, J. (Ed.). (1677). Lucae Tvdensis episcopi, Scriptores aliqvot svccedanei contra sectam waldensivm. Maxima Bibliotheca Veterum Patrum, Et Antiquorum Scriptorum Ecclesiasticorum. Tom. XXV. Lvgdvni: Anissonios, 277F–299G.
 
 Other authors:
+
 Author: Alanus de Insulis (Alain of Lille)
 Text: Contra haereticos
 Source: Patrologia Latina 210. Text from Corpus Corporum: http://mlat.uzh.ch/?c=2&w=AlDeIn.ConHae
